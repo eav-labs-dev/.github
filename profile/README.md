@@ -14,12 +14,12 @@ The projects here are built around real operational problems and treated as soft
 
 ## Featured systems
 
-| | System | Focus | Stack |
-| --- | --- | --- | --- |
-| **01** | [**EAV Insight**](https://github.com/eav-labs-dev/eav-insight-api) | Document intake, operational reporting, searchable business records | FastAPI · PostgreSQL · Docker |
-| **02** | [**EAV Field**](https://github.com/eav-labs-dev/eav-field-mobile) | Offline-first field inspections, evidence capture, synchronization | React Native · Expo · TypeScript |
-| **03** | [**EAV Dispatch**](https://github.com/eav-labs-dev/eav-dispatch-service) | Logistics, assignments, shipment lifecycles, audit history | Java · Spring Boot · PostgreSQL |
-| **04** | [**EAV Ledger**](https://github.com/eav-labs-dev/eav-ledger-api) | Billing, invoices, payments, and business workflows | PHP · Laravel · PostgreSQL |
+| | System | Focus | Stack | Live |
+| --- | --- | --- | --- | --- |
+| **01** | [**EAV Insight**](https://github.com/eav-labs-dev/eav-insight-api) | Document intake, operational reporting, searchable business records | FastAPI · PostgreSQL · Docker | [API](https://insight.env.pm) · [Docs](https://insight.env.pm/docs) |
+| **02** | [**EAV Field**](https://github.com/eav-labs-dev/eav-field-mobile) | Offline-first field inspections, evidence capture, synchronization | React Native · Expo · TypeScript | Mobile app |
+| **03** | [**EAV Dispatch**](https://github.com/eav-labs-dev/eav-dispatch-service) | Logistics, assignments, shipment lifecycles, audit history | Java · Spring Boot · PostgreSQL | [API](https://dispatch.env.pm) · [Docs](https://dispatch.env.pm/swagger-ui.html) |
+| **04** | [**EAV Ledger**](https://github.com/eav-labs-dev/eav-ledger-api) | Billing, invoices, payments, and business workflows | PHP · Laravel · PostgreSQL | [API](https://ledger.env.pm) · [Docs](https://ledger.env.pm/docs) |
 
 ## Engineering approach
 
