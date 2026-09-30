@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">EAV Labs</title>
+  <desc id="desc">Practical software systems, built with engineering discipline. Contributions, collaborations, and thoughtful partnerships are welcome.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031b18"/>
+      <stop offset="0.55" stop-color="#07372d"/>
+      <stop offset="1" stop-color="#0b4e3d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="76%" cy="40%" r="58%">
+      <stop offset="0" stop-color="#8ff74e" stop-opacity=".38"/>
+      <stop offset=".38" stop-color="#3ff2a2" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#06201b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d6b55" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#05241f" stop-opacity=".96"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#glow)"/>
+
+  <circle cx="1028" cy="252" r="278" fill="none" stroke="#25f1a0" stroke-opacity=".18" stroke-width="1"/>
+  <circle cx="1028" cy="252" r="232" fill="none" stroke="#25f1a0" stroke-opacity=".14" stroke-width="1"/>
+  <circle cx="1028" cy="252" r="188" fill="none" stroke="#25f1a0" stroke-opacity=".12" stroke-width="1"/>
+  <path d="M740 610 C860 230 1010 70 1280 18" fill="none" stroke="#52ffad" stroke-width="2" stroke-opacity=".72"/>
+  <path d="M720 620 C860 205 1020 45 1280 0" fill="none" stroke="#8ff74e" stroke-width="1" stroke-opacity=".22"/>
+
+  <g opacity=".8">
+    <path d="M720 465 L780 426 L824 447 L873 399 L918 432 L966 378 L1020 421 L1065 387 L1112 431 L1160 397 L1218 454 L1280 420 L1280 640 L690 640 Z" fill="#0d493b"/>
+    <path d="M650 510 L722 455 L770 486 L830 440 L884 481 L938 423 L1000 468 L1052 435 L1118 486 L1186 450 L1280 508 L1280 640 L640 640 Z" fill="url(#mount)"/>
+    <path d="M598 565 L694 506 L754 539 L817 497 L874 534 L936 487 L1004 529 L1065 501 L1136 545 L1206 518 L1280 552 L1280 640 L570 640 Z" fill="#04251f"/>
+  </g>
+
+  <g stroke="#dff7ef" stroke-opacity=".26">
+    <line x1="1028" y1="72" x2="1028" y2="560"/>
+    <line x1="824" y1="252" x2="1248" y2="252"/>
+  </g>
+  <g fill="none" stroke="#b8ffc6">
+    <circle cx="1028" cy="252" r="42" stroke-opacity=".62"/>
+    <circle cx="1028" cy="252" r="66" stroke-opacity=".28"/>
+    <circle cx="1028" cy="252" r="92" stroke-opacity=".14"/>
+  </g>
+  <circle cx="1028" cy="252" r="10" fill="#effff7"/>
+  <circle cx="1028" cy="252" r="28" fill="#8ff74e" opacity=".08" filter="url(#soft)"/>
+
+  <g font-family="Montserrat, Arial, sans-serif" fill="#f5fffb">
+    <text x="72" y="188" font-size="92" font-weight="800" letter-spacing="-3">EAV</text>
+    <text x="342" y="188" font-size="82" font-weight="400" fill="#3ff2a2">/</text>
+  </g>
+  <text x="406" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-style="italic" fill="#f5fffb">LABS</text>
+
+  <text x="76" y="246" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#effff7">
+    Practical software systems,
+  </text>
+  <text x="76" y="288" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#effff7">
+    built with engineering discipline.
+  </text>
+
+  <rect x="76" y="324" width="72" height="5" rx="2.5" fill="#3ff2a2"/>
+
+  <g font-family="Montserrat, Arial, sans-serif" font-size="17" fill="#dcebe6">
+    <text x="76" y="374">Independent engineering work by Enam Avornyo.</text>
+    <text x="76" y="405">Building web, mobile, backend, cloud, and automation systems</text>
+    <text x="76" y="436">for real workflows. Contributions, collaborations, and thoughtful</text>
+    <text x="76" y="467">partnerships are welcome.</text>
+  </g>
+
+  <g font-family="Montserrat, Arial, sans-serif" font-size="15" letter-spacing="4" fill="#e8f4f0">
+    <text x="76" y="530">BUILD</text>
+    <circle cx="182" cy="525" r="3.5" fill="#3ff2a2"/>
+    <text x="210" y="530">DOCUMENT</text>
+    <circle cx="365" cy="525" r="3.5" fill="#3ff2a2"/>
+    <text x="392" y="530">AUTOMATE</text>
+    <circle cx="538" cy="525" r="3.5" fill="#3ff2a2"/>
+    <text x="566" y="530">DEPLOY</text>
+  </g>
+
+  <g fill="#43f4a3" opacity=".7">
+    <circle cx="1140" cy="98" r="2"/><circle cx="1162" cy="98" r="2"/><circle cx="1184" cy="98" r="2"/>
+    <circle cx="1140" cy="120" r="2"/><circle cx="1162" cy="120" r="2"/><circle cx="1184" cy="120" r="2"/>
+    <circle cx="1140" cy="142" r="2"/><circle cx="1162" cy="142" r="2"/><circle cx="1184" cy="142" r="2"/>
+  </g>
+</svg>
