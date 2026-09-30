@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/eav-labs-hero.svg" alt="EAV Labs — practical software systems, built with engineering discipline" width="100%" />
+  <img src="../assets/eav-labs-readme-hero.jpg" alt="EAV Labs — practical software systems, built with engineering discipline" width="100%" />
 </p>
 
 <p align="center">
